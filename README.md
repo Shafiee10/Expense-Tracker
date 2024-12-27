@@ -11,9 +11,4 @@ The Expense Tracker is a web application that helps users manage their finances 
 - Delete individual transactions.
 - Clear all transactions.
 
-## Technologies Used
-- HTML
-- CSS
-- JavaScript
 
-## Project Structure
